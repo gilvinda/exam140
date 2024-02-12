@@ -6,6 +6,10 @@ public class fghh {
 		// TODO Auto-generated method stub
 
 		System.out.println("dingo is sleeping ");
+		
+		System.out.println("sammy is sleeping ");
+		
+		
 	}
 
 }
